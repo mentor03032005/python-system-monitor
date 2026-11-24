@@ -1,0 +1,31 @@
+SYSTEM HEALTH MONITOR REPORT
+========================================
+
+--- DISK SPACE ---
+Total Disk Space: 475.97 GB
+Used Disk Space: 57.33 GB
+Free Disk Space: 418.65 GB
+
+--- FOLDER SIZE ---
+Scanned Folder: C:\Users\HOME PC
+Total Folder Size: 14628.62 MB
+
+Five Largest Files:
+1. C:\SampleFolder\video1.mp4
+2. C:\SampleFolder\document1.pdf
+3. C:\SampleFolder\image1.jpg
+4. C:\SampleFolder\backup.zip
+5. C:\SampleFolder\music1.mp3
+
+
+--- CPU USAGE ---
+CPU Usage: 10.1%
+
+--- RAM USAGE ---
+Total RAM: 15.73 GB
+Used RAM: 7.88 GB
+Available RAM: 7.85 GB
+RAM Usage: 50.1%
+
+--- DATE AND TIME ---
+Report Generated: 2026-11-24 12:22:08
